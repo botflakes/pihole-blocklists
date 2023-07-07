@@ -240,7 +240,6 @@
 0.0.0.0 wrhheit.jsite
 0.0.0.0 wrhheit.space
 0.0.0.0 wrhheit.jwebsite
-0.0.0.0 welt.tld
 0.0.0.0 aIIerdigns.pw
 0.0.0.0 deknuzesrtnach.jfun
 0.0.0.0 deknuzesrtnach.jonIine
