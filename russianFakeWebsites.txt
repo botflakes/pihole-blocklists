@@ -1,6 +1,6 @@
 # Personal Blocklist by CornFlakes (https://botflakes.de) to block russian fake websites of prominent german news websites.
 # Can be used with tools/software like PiHole
-# Content added to this list has been manually verified, and is updated irregularly
+# Content added to this list has been added manually, and is updated irregularly
 
 # Licensing: CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/)
 ## You are welcome to copy, redistibute, remix, transform and build upon this content
